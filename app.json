@@ -1,6 +1,6 @@
 {
-  "name": "MALVIN-XD",
-  "description": "Javascript WhatsApp bot made by ᴍᴀʟᴠɪɴ ᴛᴇᴄʜ",
+  "name": "BEN-XD",
+  "description": "Javascript WhatsApp bot made by BEN ᴛᴇᴄʜ",
   "logo": "https://files.catbox.moe/qumhu4.jpg",
   "keywords": ["MALVIN-XD"],
   "success_url": "/",
@@ -16,7 +16,7 @@
     "STICKER_NAME": {
       "description": "type your sticker pack name.",
       "required": false,
-      "value": "ᴍᴀʟᴠɪɴ-xᴅ"
+      "value": "BEN-xᴅ"
     }, 
       
     "PREFIX": {
@@ -28,7 +28,7 @@
     "MODE": {
       "description": "select your bot work type public-private-inbox-group.",
       "required": false,
-      "value": "public"
+      "value": "private"
       
     },
     
@@ -86,20 +86,20 @@
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "ᴍᴀʟᴠɪɴ ᴋɪɴɢ"
+      "value": "ben"
 }, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "26371475XXXX"
+      "value": "254727374449"
 
     }, 
 
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "ᴍᴀʟᴠɪɴ-xᴅ"
+      "value": "ben xmd"
 
       }, 
 
@@ -113,7 +113,7 @@
      "ANTI_LINK_KICK": {
       "description": "Make it true if you want bot auto remove group link.",
       "required": true,
-      "value": "false"
+      "value": "true"
       
     },
     
@@ -138,19 +138,19 @@
      "DESCRIPTION": {
       "description": "add caption for menu and other",
       "required": false,
-      "value": "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍᴀʟᴠɪɴ ᴋɪɴɢ"
+      "value": "*© ᴘᴏᴡᴇʀᴇᴅ BY BEN"
     },
 
       "DELETE_LINKS": {
       "description": "remove links from group automatically without removing member",
-      "required": false,
-      "value": "false"
+     "required": false,
+      "value": "true"
     },
     
     "AUTO_RECORDING": {
       "description": "Make it true if you want auto recoding.",
       "required": false,
-      "value": "false"
+      "value": "true"
     },
 
     "AUTO_TYPING": {
